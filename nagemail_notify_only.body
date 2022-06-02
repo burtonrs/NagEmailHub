@@ -1,0 +1,202 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+</head>
+<body lang=EN-US link=blue vlink="#954F72">
+<div class=WordSection1>
+<p class=MsoNormal>&nbsp;</p>
+<div align=center>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=750
+ style='width:562.5pt;background:white;border:solid #CCCCCC 1.0pt'>
+ <tr>
+  <td style='border:none;padding:11.25pt 22.5pt 0in 22.5pt'>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+   style='width:100.0%'>
+   <tr style='height:67.2pt'>
+    <td valign=bottom style='padding:0in 0in 0in 0in;height:67.2pt'>
+    <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+     width="100%" style='width:100.0%'>
+     <tr style='height:23.25pt'>
+      <td valign=bottom style='padding:0in 0in 0in 0in;height:23.25pt'>
+      <p class=MsoNormal><a name="_MailAutoSig"><span style='font-size:11.5pt;
+      font-family:"Arial",sans-serif;color:#ED1C24'>Risk Solutions </span></a><span
+      style='font-size:11.5pt;font-family:"Arial",sans-serif;color:#CCCCCC'>|</span><span
+      style='font-size:11.5pt;font-family:"Arial",sans-serif;color:#ED1C24'> </span><span
+      style='font-size:11.5pt;font-family:"Arial",sans-serif'>Application
+      Infrastructure Team <u1:p></u1:p></span></p>
+      </td>
+     </tr>
+     <tr>
+      <td style='padding:0in 0in 0in 0in'>
+      <p class=MsoNormal><span style='font-size:18.0pt;font-family:"Arial",sans-serif;
+      color:#008000'>SSL</span><span style='font-size:18.0pt;font-family:"Arial",sans-serif;
+      color:#ED1C24'> </span><span style='font-size:18.0pt;font-family:"Arial",sans-serif;
+      color:#008000'>CERT</span><span style='font-size:18.0pt;font-family:"Arial",sans-serif;
+      color:#ED1C24'> EXPIRATION </span><span style='font-size:18.0pt;
+      font-family:"Arial",sans-serif;color:#008000'>ANNOUNCEMENT<u1:p></u1:p></span></p>
+      </td>
+     </tr>
+    </table>
+    </td>
+   </tr>
+   <tr style='height:.75pt'>
+    <td style='background:#ED1C24;padding:0in 0in 0in 0in;height:.75pt'></td>
+   </tr>
+  </table>
+  </td>
+ </tr>
+ <tr>
+  <td style='border:none;padding:7.5pt 22.5pt 0in 22.5pt'>
+  <div align=center>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=690
+   style='width:517.5pt'>
+   <tr>
+    <td style='background:white;padding:0in 0in 0in 0in'>
+    <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+     width="100%" style='width:100.0%'>
+     <tr>
+      <td width=500 valign=top style='width:375.0pt;background:white;
+      padding:0in 12.0pt 0in 0in'>
+      <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+       width="100%" style='width:100.0%'>
+       <tr>
+        <td style='padding:0in 0in 0in 0in'>
+        <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+         width="100%" style='width:100.0%'>
+         <tr>
+          <td valign=top style='padding:0in 0in 0in 0in'>
+          <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+           width="100%" style='width:100.0%'>
+           <tr>
+            <td style='padding:0in 0in 15.0pt 0in'>
+            <p class=MsoNormal><b><span style='font-family:"Arial",sans-serif;
+            color:black'>Overview </span></b></p>
+            </td>
+           </tr>
+           <tr>
+            <td style='padding:0in 0in 0in 0in'>
+            <p><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+            color:#333333'>The purpose of this email is to provide the current support 
+            team/support as listed in Dashboard with an advance notice that the SSL Cert 
+            for the below URL will be expiring on the date shown. </span> <u1:p></u1:p></p>
+            </td>
+           </tr>
+          </table>
+          </td>
+         </tr>
+        </table>
+        </td>
+       </tr>
+       <tr>
+        <td style='padding:18.75pt 0in 0in 0in'>
+        <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+         width="100%" style='width:100.0%;background:#F1F1D4;border:solid #CCCCCC 1.0pt'>
+         <tr>
+          <td style='border:none;padding:11.25pt 11.25pt 11.25pt 11.25pt'>
+          <p class=MsoNormal style='line-height:140%'><b><u><span
+          style='font-size:10pt;line-height:140%;font-family:"Arial",sans-serif;
+          color:#CC0000'>THE FOLLOWING SSL CERTIFICATE IS EXPIRING</span></u></b>
+          </p>
+          <u1:p></u1:p>
+          <p><span style='font-size:12pt;font-family:"Arial",sans-serif;
+          color:#004080'>Common Name: {commonname}</span>
+          </p>
+          <p><span style='font-size:12pt;font-family:"Arial",sans-serif;
+          color:#004080'>URL: {url}</span>
+          </p>
+          <p><span style='font-size:12pt;font-family:"Arial",sans-serif;
+          color:#004080'>Expiration Date: {expdate}</span>
+          </p>
+          <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+          line-height:150%;color:#333333'>In order to stop receiving further reminders for 
+          this cert renewal, please send an email with the following information. If your 
+          organization has an internal ticketing system for certs, please include the 
+          ticket number in the subject line for reference purposes.</span>
+          </p>
+          <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in'><span
+          style='font:1.0pt "Times New Roman"'>&nbsp; </span>
+          </p>          
+          <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in'><u1:p></u1:p><span
+          style='font-size:9.0pt;font-family:"Arial",sans-serif;color:#333333'>1.<span
+          style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+          style='font-size:9.0pt;font-family:"Arial",sans-serif;
+		  color:#333333'>Send to: RIS-GLOAppInf@risk.lexisnexis.com</span>
+          </p>
+          <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in'><span
+          style='font:1.0pt "Times New Roman"'>&nbsp; </span>
+          </p>
+          <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in'><u1:p></u1:p><span
+          style='font-size:9.0pt;font-family:"Arial",sans-serif;color:#333333'>2.<span
+          style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
+          style='font-size:9.0pt;font-family:"Arial",sans-serif;
+		  color:#333333'> Subject: {commonname} is being renewed by ticket [ticket#]</span>
+          </p>
+          <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in'><span
+          style='font:1.0pt "Times New Roman"'>&nbsp; </span>
+          </p>
+          </td>
+         </tr>
+        </table>
+        </td>
+       </tr>
+       <tr>
+        <td style='padding:0.4in 0in 0in 0in'>
+        <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+         width="100%" style='width:100.0%;background:#F1F1D4;border:solid #CCCCCC 1.0pt'>
+         <tr>
+          <td style='border:none;padding:11.25pt 11.25pt 11.25pt 11.25pt'>
+          <p class=MsoNormal><u><b><span style='font-size:10.0pt;font-family:"Arial",sans-serif;
+          color:#CC0000'>IF THIS SSL CERT IS NO LONGER NEEDED<u1:p></u1:p></span></b></u>
+          </p>
+          </td>
+         </tr>
+         <tr>
+          <td style='border:none;padding:11.25pt 11.25pt 0pt 11.25pt'>
+          <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+          color:#333333'>If the SSL Certificate </span><b><span
+          style='font-size:9.0pt;font-family:"Arial",sans-serif;color:red;
+          background:yellow'>DOES NOT NEED</span></b><span style='font-size:
+          9.0pt;font-family:"Arial",sans-serif;color:red'> </span><span
+          style='font-size:9.0pt;font-family:"Arial",sans-serif;color:#333333'>to
+          be renewed, please submit a regular iSIT ticket (not a change ticket) to the 
+          LNR-APP-INFRASTRUCTURE queue with the following subject line:<br><br>
+		  Do Not Renew SSL Certificate for {commonname}</span>
+          </p>
+          </td>
+         </tr>
+         <tr style='height:7.5pt'>
+          <td style='padding:0in 0in 0in 0in;height:7.5pt'>
+          <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+          color:#333333'>&nbsp; <u1:p></u1:p></span>
+          </p>
+          </td>
+         </tr>
+         <tr style='height:7.5pt'>
+          <td style='padding:0in 0in 0in 0in;height:7.5pt'>
+          <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+          color:#333333'>&nbsp; <u1:p></u1:p></span>
+          </p>
+          </td>
+         </tr>
+         <tr style='height:.75pt'>
+          <td style='background:#CCCCCC;padding:0in 0in 0in 0in;height:.75pt'></td>
+         </tr>
+       </tr>
+      </table>
+      </td>
+     </tr>
+    </table>
+    </td>
+   </tr>
+  </table>
+  </div>
+  </td>
+ </tr>
+</table>
+</div>
+<p class=MsoNormal>&nbsp;</p>
+</div>
+</body>
+</html>
+

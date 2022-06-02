@@ -1,0 +1,46 @@
+#!/bin/bash
+
+############
+# Variables
+############
+CWORKDIR="/home/burtonrs/NagEmail/nag-email"
+
+HH=`md5sum /tmp/sslcertcheckpeek2_allurls_mysql.csv | awk '{print $1}'`
+H2=`md5sum /home/burtonrs/NagEmail/nag-email/sslcertcheckpeek2_allurls_mysql.csv | awk '{print $1}'`
+if [ "$HH" != "$H2"  ]; then
+#     printf "Pulling file from /tmp.\n"
+#     printf "It was updated.\n"
+     cp /tmp/sslcertcheckpeek2_allurls_mysql.csv $CWORKDIR/sslcertcheckpeek2_allurls_mysql.csv
+#     ADDITIONAL="$CWORKDIR/sslcertcheckpeek2_allurls_mysql.csv hosts file updated"
+fi
+
+
+#UPDATEGIT () {
+#############
+# Add to git
+#############
+cd $CWORKDIR
+#printf "\ngit add *\n"
+git add *
+git add -u
+#printf "\nUpdated sslcertcheckpeek2 file to start pipeline\n_: "
+#read MESSAGE
+#printf "\n"
+#printf "git commit -m \"%s %s\" \n" "$MESSAGE" "$ADDITIONAL"
+#git commit -m "$MESSAGE + $ADDITIONAL"
+git commit -m "the sslcertcheckpeek2 file was updated today"
+#printf "Pushing to Gitlab\n"
+git push
+#}
+
+#######
+# MAIN
+#######
+#UPDATEGIT
+
+#if [ "$PWD" == "$CWORKDIR" ];then
+#    echo ""
+#else
+#    printf "Please run this in the correct directory.\n"
+#fi
+
